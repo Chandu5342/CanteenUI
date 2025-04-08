@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #E5EBF4;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* ensures it stays above all other elements */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  .navmain {
+    margin-bottom: 80px; /* create some space below navbar */
+  }
+  
